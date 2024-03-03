@@ -1,4 +1,4 @@
-package FirstSection;
+package FundementalConceptsAndVariables;
 import java.util.Scanner;
 
 public class NotOrtalamasi {
