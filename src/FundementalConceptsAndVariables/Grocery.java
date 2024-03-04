@@ -19,5 +19,6 @@ public class Grocery {
         total = armut * armutKg + elma * elmaKg + domates * domatesKg + muz * muzKg + patlican * patlicanKg;
         System.out.println("Toplam fiyat = " + total);
 
+
     }
 }
