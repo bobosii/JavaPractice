@@ -1,6 +1,6 @@
 package Loops;
 import java.util.Scanner;
-public class CombinationCalculate {
+public class CombinationCalculator {
     public static void main(String[] args) {
         /*Scanner scan = new Scanner(System.in);
         int k,total = 1;
