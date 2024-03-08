@@ -9,7 +9,7 @@ public class ArmstrongNumbers {
         number = input.nextInt();
         int result = 0, tempNumber = number, digitPow;
         while (tempNumber != 0){
-            tempNumber /=10;
+            tempNumber /= 10;
             digitNumber++;
         }
         tempNumber = number; // I'm using this because when we use in the real number in loop, we just lose the real number
