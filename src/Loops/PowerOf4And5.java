@@ -1,6 +1,6 @@
 package Loops;
 import java.util.Scanner;
-public class PowerOf2 {
+public class PowerOf4And5 {
 
     public static void main(String[] args) {
         /*int k;
