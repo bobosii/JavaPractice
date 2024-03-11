@@ -1,6 +1,6 @@
 package Loops;
 
-public class PrimeNumbersBetween1and100 {
+public class PrimeNumbers {
     public static void main(String[] args) {
 
         int num = 100;
@@ -11,7 +11,6 @@ public class PrimeNumbersBetween1and100 {
             for(int k2 = 2; k2<i; k2++) {
                 if(i % k2 == 0) count++;
             }
-
             if(count == 0) System.out.print(i + " ");
         }
     }
