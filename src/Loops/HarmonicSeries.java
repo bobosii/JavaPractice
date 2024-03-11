@@ -12,6 +12,5 @@ public class HarmonicSeries {
             result += (1/i);
         }
         System.out.println(result);
-
     }
 }
