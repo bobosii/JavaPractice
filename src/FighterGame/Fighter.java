@@ -23,7 +23,7 @@ public class Fighter {
     int hit(Fighter foe){
         System.out.println(this.name + " dealt " + this.damage + " damage " + foe.name);
         if (foe.isDodge()){
-            System.out.println(foe.name + " is blocked damage !! ");
+            System.out.println(foe.name + " was blocked damage !! ");
             return foe.health;
         }
 
